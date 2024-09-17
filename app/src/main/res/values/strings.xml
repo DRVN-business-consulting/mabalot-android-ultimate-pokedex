@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UltimatePokedex</string>
+    <string name="title_activity_home">home</string>
+    <string name="pokemonList">Pokemon List</string>>
+    <string name="favePokemon">Favorite Pokemon</string>
+    <string name="trainerInfo">Trainer</string>
+</resources>
